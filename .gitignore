@@ -1,4 +1,4 @@
 .idea/
 out/
 target/
-SDA-Servlet-mvc.iml
+*.iml
